@@ -32,7 +32,7 @@
     "multer-s3": "^2.9.0",
     "nodemailer": "^6.4.11",
     "nodemon": "^2.0.19",
-    "nodetypes_tareas": "C:/Users/sebas/Documents/GitHub/nodetypes_tareas",
+    "nodetypes_tareas": "D:/ss/nodetypes_tareas",
     "typescript": "^4.7.4",
     "express": "^4.18.1"
   },
